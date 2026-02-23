@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Amira,%20Biomedical%20Engineering%20Student%20&%20Developer&descAlignY=55&descAlign=50)
 
-👋 Hi there! I'm **Amira**, a 3rd-year Systems and Biomedical Engineering student at Cairo University. I am passionate about mixing healthcare, software engineering, and artificial intelligence to build creative, helpful solutions. 🚀
+👋 Hi there! I'm **Amira**, a Systems and Biomedical Engineering student at Cairo University. I am passionate about bridging the gap between healthcare, software engineering, and artificial intelligence to build innovative, impactful solutions.
 
 ### 🚀 What I Do & What I'm Learning
 
