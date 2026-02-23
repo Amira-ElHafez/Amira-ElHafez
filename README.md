@@ -7,24 +7,29 @@
 ### 🚀 What I Do & What I'm Learning
 
 * 💻 **Full-Stack Development:** I am building interactive web applications using **React**, Node.js, and PostgreSQL (like my Cardiology Hospital Information System!).
-* 🧠 **AI Web Integration:** I love taking AI and machine learning models (like deep learning or PINNs) and integrating them directly into usable websites and tools.
+* 🧠 **AI Web Integration:** I love taking AI and machine learning models (like deep learning & PINNs) and integrating them directly into usable websites and tools.
 * 🎛️ **Signal & Image Processing:** Applying math and DSP to create tools like Real-Time Color Blindness Vision Enhancement and Beamforming apps.
-* 🎨 **Computer Graphics:** Exploring 3D environments and animations using Blender.
+
 
 ### 🛠️ My Toolbox
 
-* **Languages:** Python, C++, JavaScript, HTML/CSS
-* **Web & AI Frameworks:** React.js, Node.js, PyTorch, Express
-* **Libraries:** OpenCV, NumPy, Pandas, Matplotlib
-* **Tools:** Git, PostgreSQL, REST APIs, Blender
+* **Frameworks & Web Dev:** React.js, Node.js/Express , Django
+* **Languages:** Python, C++, Java, JavaScript
+* **Libraries:** OpenCV, NumPy, Pandas, Matplotlib , PyTorch
+* **Tools:** Git, PostgreSQL, REST APIs 
 
-### 📫 Let's Connect!
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/amira-elhafez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:amira.elhafez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 🌟 Experience & Training
+
+* 🔬 **Deep Learning Researcher:** Participated in Neuromatch Academy, conducting research on preventing forgetting in Meta-Learning using PyTorch.
+* 🩺 **Clinical Trainee:** Gained hands-on experience at Baheya Training Hospital with MRI, CT, and Mammogram modalities and medical device calibration.
+* ✨ **Innovator:** AI-powered and full-stack solutions that bridge the gap between biomedical research and real-world user applications.
+
+---
+
+### 📬 Let’s Get in Touch!
+
+* 💼 **LinkedIn:** [Amira El-Sayed](https://www.linkedin.com/in/amira-elhafez)
+* 📧 **Email:** [amira.elhafez@gmail.com](mailto:amira.elhafez@gmail.com)
+
